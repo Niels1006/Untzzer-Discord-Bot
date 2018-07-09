@@ -315,7 +315,3 @@ async def on_reaction_add(reaction, user):
 #             await bot.add_roles(user, role)
 
 
-if os.name == "nt":
-    bot.run("MjgwMzQxNjk2NDU2Mjk0NDAw.DSghmg.rUIDhz62eQkaPKYnh1vzzqp-YEQ")
-else:
-    bot.run("Mzk2MjQwMTE5ODYzOTY3NzQ1.DSejFg.gEr8ITSoPjWAXsep6V88btWWEgk")
